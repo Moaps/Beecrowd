@@ -1,6 +1,8 @@
 /*
     Clariana Nogueira da Silva Costa
     https://github.com/Moaps/Beecrowd
+    
+    -> Triângulo
 */
 
 #include <stdio.h>
