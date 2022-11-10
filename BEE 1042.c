@@ -2,6 +2,7 @@
     Clariana Nogueira da Silva Costa
     https://github.com/Moaps/Beecrowd
 
+    -> Sort Simples
 */
 
 #include <stdio.h>
