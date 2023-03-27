@@ -2,7 +2,7 @@
     Clariana Nogueira da Silva Costa
     https://github.com/Moaps/Beecrowd
 
-    -> Loop Musical
+    -> Og
 */
 
 #include <stdio.h>
