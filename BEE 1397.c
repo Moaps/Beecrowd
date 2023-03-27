@@ -2,7 +2,7 @@
     Clariana Nogueira da Silva Costa
     https://github.com/Moaps/Beecrowd
 
-    -> Loop Musical
+    -> Jogo do Maior
 */
 
 #include <stdio.h>
