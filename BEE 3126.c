@@ -18,12 +18,11 @@ int main(){
         do
         {
             scanf("%d", &identificador);
+            if (identificador == 1)
+            {
+                qtdPresentes++;
+            }
         } while (identificador != 0 && identificador != 1);
-        
-        if (identificador == 1)
-        {
-            qtdPresentes++;
-        }
         
         contador++;
     }
