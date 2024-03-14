@@ -19,7 +19,6 @@ int main(){
             scanf("%d %d %d %d %d", &answers[0], &answers[1], &answers[2], &answers[3], &answers[4]);
             checkAnswer(answers);
         }
-        
 
     } while (qty > 0);
     
